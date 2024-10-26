@@ -6,3 +6,4 @@ I was inspired by this (https://github.com/caseif/wednesday.exe) program and dec
 
 ## Requiremments
 + python 3
++ windows (i tested on win11)
