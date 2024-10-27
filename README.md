@@ -7,3 +7,4 @@ I was inspired by this (https://github.com/caseif/wednesday.exe) program and dec
 ## Requiremments
 + python 3
 + windows (i tested on win11)
++ you MUST check if you calendar week starting in Monday, or code dont work!!!!
